@@ -1,0 +1,10 @@
+.DS_Store
+*.pkl
+data/results/classification
+data/raw/*.gz
+data/processed/*.h5
+*.egg-info/
+*.h5ad
+notebooks/.ipynb_checkpoints/*
+*.pyc
+__pycache__/
