@@ -1,0 +1,118 @@
+﻿,Environmental State GEP,gene category 1,gene category 2,included in 73 functional genes
+Pcp4l1,high,calcium,calcium binding,YES
+S100a5,high,calcium,calcium binding,YES
+Rasgrp4,high,calcium,calcium binding,YES
+Snca,high,calcium,calcium binding,YES
+Hpcal1,high,calcium,calcium binding,YES
+Dner,high,calcium,calcium binding,YES
+S100a3,high,calcium,calcium binding,YES
+Dgkg,high,calcium,calcium binding,YES
+Ppef1,high,calcium,calcium binding,YES
+Efcab10,high,calcium,calcium binding,YES
+Necab1,high,calcium,calcium binding,YES
+Spock2,high,calcium,calcium binding,YES
+Atp2a2,high,calcium,calcium binding,YES
+Cadps2,high,calcium,calcium binding,YES
+S100a13,high,calcium,calcium binding,YES
+Clstn1,high,calcium,calcium binding,YES
+Ksr2,high,calcium,calcium signaling,YES
+Camk2d,high,calcium,calcium signaling,YES
+Camta1,high,calcium,calcium signaling,YES
+Itpkb,high,calcium,calcium signaling,YES
+Pitpnc1,high,calcium,inositol phosphatide related,YES
+Inpp5f,high,calcium,inositol phosphatide related,YES
+Kcnmb3,high,ion transfer,ion channel,YES
+Scn4b,high,ion transfer,ion channel,YES
+Scn3b,high,ion transfer,ion channel,YES
+Kcnn2,high,ion transfer,ion channel,YES
+Kcnma1,high,ion transfer,ion channel,YES
+Kcng1,high,ion transfer,ion channel,YES
+Scn8a,high,ion transfer,ion channel,YES
+Hcn1,high,ion transfer,ion channel,YES
+Atp1a1,high,ion transfer,ion pump/transporter,YES
+Slc8a1,high,ion transfer,ion pump/transporter,YES
+Atp2b1,high,ion transfer,ion pump/transporter,YES
+Rgs7,high,OR signaling,OR signaling,YES
+Plcxd3,high,OR signaling,OR signaling,YES
+Slc24a2,high,OR signaling,OR signaling,YES
+Pde1c,high,OR signaling,OR signaling,YES
+Rgs20,high,OR signaling,OR signaling,YES
+Kirrel2,high,axon guidance,axon guidance/cell adhesion,NO
+Epha5,high,axon guidance,axon guidance/cell adhesion,NO
+Nphs1,high,axon guidance,axon guidance/cell adhesion,NO
+Sema3e,high,axon guidance,axon guidance/cell adhesion,NO
+Dlg2,high,synapse,synapse,NO
+Erbin,high,synapse,synapse,NO
+Snap25,high,synapse,synapse,NO
+Slc17a6,high,synapse,synapse,NO
+Cplx2,high,synapse,synapse,NO
+Syn2,high,synapse,synapse,NO
+Nsf,high,synapse,synapse,NO
+Anks1b,high,synapse,synapse,NO
+Slc6a17,high,synapse,synapse,NO
+Syngr1,high,synapse,synapse,NO
+Nptx2,high,synapse,synapse,NO
+Dlg1,high,synapse,synapse,NO
+Syt7,high,synapse,synapse,NO
+Syt4,high,synapse,synapse,NO
+Scg3,high,synapse,secretory peptide,NO
+Chgb,high,synapse,secretory peptide,NO
+Ntf3,high,synapse,secretory peptide,NO
+Olfm1,high,protein transport,protein transport,NO
+Ndfip1,high,protein transport,protein transport,NO
+Sorl1,high,protein transport,protein transport,NO
+Apba1,high,protein transport,protein transport,NO
+Calb2,low,calcium,calcium binding,YES
+Ppp3ca,low,calcium,calcium binding,YES
+Ppp3r1,low,calcium,calcium binding,YES
+Fstl5,low,calcium,calcium binding,YES
+Necab3,low,calcium,calcium binding,YES
+Capn8,low,calcium,calcium binding,YES
+Calm2,low,calcium,calcium binding,YES
+Calm3,low,calcium,calcium binding,YES
+Tpd52,low,calcium,calcium binding,YES
+Unc13c,low,calcium,calcium binding,YES
+Scube3,low,calcium,calcium binding,YES
+Spock1,low,calcium,calcium binding,YES
+Clgn,low,calcium,calcium binding,YES
+Ormdl3,low,calcium,calcium signaling,YES
+Itpka,low,calcium,inositol phosphatide related,YES
+Inpp5k,low,calcium,inositol phosphatide related,YES
+Scn9a,low,ion transfer,ion channel,YES
+Cacna1b,low,ion transfer,ion channel,YES
+Cacnb3,low,ion transfer,ion channel,YES
+Kcnk10,low,ion transfer,ion channel,YES
+Cacna2d1,low,ion transfer,ion channel,YES
+P2rx4,low,ion transfer,ion channel,YES
+Slco3a1,low,ion transfer,ion pump/transporter,YES
+Slc12a2,low,ion transfer,ion pump/transporter,YES
+Stom,low,OR signaling,OR signaling,YES
+Stoml3,low,OR signaling,OR signaling,YES
+Gnal,low,OR signaling,OR signaling,YES
+Gng13,low,OR signaling,OR signaling,YES
+Pde6d,low,OR signaling,OR signaling,YES
+Cnga2,low,OR signaling,OR signaling,YES
+Cnga4,low,OR signaling,OR signaling,YES
+Pkib,low,OR signaling,OR signaling,YES
+Pkia,low,OR signaling,OR signaling,YES
+Cngb1,low,OR signaling,OR signaling,YES
+Gnb1,low,OR signaling,OR signaling,YES
+Efna3,low,axon guidance,axon guidance/cell adhesion,NO
+Efna5,low,axon guidance,axon guidance/cell adhesion,NO
+Kirrel3,low,axon guidance,axon guidance/cell adhesion,NO
+Lsamp,low,axon guidance,axon guidance/cell adhesion,NO
+Lrrn2,low,axon guidance,axon guidance/cell adhesion,NO
+Epcam,low,axon guidance,axon guidance/cell adhesion,NO
+Efna4,low,axon guidance,axon guidance/cell adhesion,NO
+Cntn4,low,axon guidance,axon guidance/cell adhesion,NO
+Pcdh9,low,axon guidance,axon guidance/cell adhesion,NO
+Flrt1,low,axon guidance,axon guidance/cell adhesion,NO
+Sema4g,low,axon guidance,axon guidance/cell adhesion,NO
+Rims3,low,synapse,synapse,NO
+Rab3b,low,synapse,synapse,NO
+Chga,low,synapse,secretory peptide,NO
+Pth2,low,synapse,secretory peptide,NO
+Edn2,low,synapse,secretory peptide,NO
+Arl3,low,protein transport,protein transport,NO
+Spef2,low,protein transport,protein transport,NO
+Rtn1,low,protein transport,protein transport,NO

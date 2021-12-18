@@ -1,0 +1,159 @@
+﻿Figure,genotype,environment,odor,time,source,orig_ident,median # of UMI,median # of Genes,# of single OR mOSNs,10x kit version,with transcriptional inhibitors
+"1,2,4",WT,home-cage,N/A,N/A,baseline-cage,baseline-1,11516,3751,6323,3.1,YES
+"1,2,4",WT,home-cage,N/A,N/A,baseline-cage,baseline-10,11503,3806,7257,3.1,YES
+"1,2,4",WT,home-cage,N/A,N/A,baseline-cage,baseline-2,12998,3975,5507,3.1,YES
+"1,2,4",WT,home-cage,N/A,N/A,baseline-cage,baseline-3,13455,4023,5610,3.1,YES
+"1,2,4",WT,home-cage,N/A,N/A,baseline-cage,baseline-4,14710,4154,6115,3.1,YES
+"1,2,4",WT,home-cage,N/A,N/A,baseline-cage,baseline-9,10736,3671,7533,3.1,YES
+1,S50->M72,home-cage,N/A,N/A,S50->M72,5072-1,2234.5,1199.5,186,2,NO
+1,S50->M72,home-cage,N/A,N/A,S50->M72,5072-2,4285,2005,459,2,NO
+1,M72->S50,home-cage,N/A,N/A,M72->S50,7250-1,2452,1230,219,2,NO
+1,M72->S50,home-cage,N/A,N/A,M72->S50,7250-2,3219,1538,619,2,NO
+1,P2iGFP,home-cage,N/A,N/A,P2iGFP,P2G-1,2438,1278,555,2,NO
+1,P2iGFP,home-cage,N/A,N/A,P2iGFP,P2G-2,6333,2559.5,386,2,NO
+1,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP1,4705.5,2146,1444,2,NO
+1,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP2,4481,2103,1415,2,NO
+1,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP3,4957,2258,2154,2,NO
+1,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP4,4931,2269,1908,2,NO
+1,WT,home-cage,N/A,N/A,WT20w,WT20w1,5883,2535,1893,2,NO
+1,WT,home-cage,N/A,N/A,WT20w,WT20w2,5789,2494.5,1958,2,NO
+1,WT,home-cage,N/A,N/A,WTMOE,WTMOE1,4053,1947,3640,2,NO
+1,WT,home-cage,N/A,N/A,WTMOE,WTMOE2,3959,1921,4153,2,NO
+1,WT,home-cage,N/A,N/A,control,control1,5817,2482,1875,2,NO
+1,WT,home-cage,N/A,N/A,control,control2,5946,2523.5,1980,2,NO
+1,WT,home-cage,N/A,N/A,inhibitor,inhibitor1,5464,2379,2437,2,YES
+1,WT,home-cage,N/A,N/A,inhibitor,inhibitor2,5446,2360,2606,2,YES
+"3,4",WT,home-cage,N/A,4wk,ChronicOccl-1,ChronicOccl-1L,6126.5,2734,5746,3.1,YES
+"3,4",WT,home-cage,N/A,4wk,ChronicOccl-1,ChronicOccl-1R,6840,2961,4961,3.1,YES
+"3,4",WT,home-cage,N/A,4wk,ChronicOccl-2,ChronicOccl-2L,6682.5,2879.5,5726,3.1,YES
+"3,4",WT,home-cage,N/A,4wk,ChronicOccl-2,ChronicOccl-2R,6203,2770,5695,3.1,YES
+"3,4",WT,home-cage,N/A,4wk,ChronicOccl-3,ChronicOccl-3L,6531,2861,5841,3.1,YES
+"3,4",WT,home-cage,N/A,4wk,ChronicOccl-3,ChronicOccl-3R,7286,3075,4599,3.1,YES
+3,Arrb2KO,envA,cage,5d,Arrb2KO-envA5d,Arrb2KO-envA5d-1,9683,3488.5,5516,3.1,YES
+3,Arrb2KO,envA,cage,5d,Arrb2KO-envA5d,Arrb2KO-envA5d-2,8790,3315,7302,3.1,YES
+3,Arrb2KO,home-cage,cage,14d,Arrb2KO-cage,Arrb2KO-cage-1,9491,3589,6393,3.1,YES
+3,Arrb2KO,home-cage,cage,14d,Arrb2KO-cage,Arrb2KO-cage-2,8341,3328,6951,3.1,YES
+3,Arrb2KO,home-cage,cage,0h,Arrb2KO-1ON,Arrb2KO-1ON-1,8801,3290,6388,3.1,YES
+3,Arrb2KO,home-cage,cage,0h,Arrb2KO-1ON,Arrb2KO-1ON-2,8554.5,3252,6002,3.1,YES
+3,WT,home-cage,ACE2h,2h,v3-ACE2h-1,v3-ACE2h-1,6087,2567,6385,3,YES
+5,WT,home-cage,ACE2h,2h,v3-ACE2h-2,v3-ACE2h-2,7565.5,2975,5084,3,YES
+5,WT,home-cage,DPG2h,2h,DPG1,DPG1,5097,2377,5050,3,YES
+5,WT,home-cage,DPG2h,2h,DPG2,DPG2,5458,2496,5805,3,YES
+5,WT,home-cage,DPG30m,30m,v3-DPG30m-1,v3-DPG30m-1,5622.5,2482.5,7238,3,YES
+5,WT,home-cage,DPG30m,30m,v3-DPG30m-2,v3-DPG30m-2,5016,2293,8152,3,YES
+5,WT,home-cage,OCT2h,2h,v3-OCT2h-1,v3-OCT2h-1,6204.5,2651,6980,3,YES
+5,WT,home-cage,OCT2h,2h,v3-OCT2h-2,v3-OCT2h-2,6671,2755,6087,3,YES
+6,WT,home-cage,ACE2h,5d (open) -> 2h,RevOccl-ACE-1,RevOccl-ACE-1L,9436,3402,3264,3,YES
+6,WT,home-cage,ACE2h,5d (unplugged) -> 2h,RevOccl-ACE-1,RevOccl-ACE-1R,7636,2987.5,4720,3,YES
+6,WT,home-cage,ACE2h,5d (open) -> 2h,RevOccl-ACE-2,RevOccl-ACE-2L,8504,3244,4096,3,YES
+6,WT,home-cage,ACE2h,5d (unplugged) -> 2h,RevOccl-ACE-2,RevOccl-ACE-2R,8318,3161,4286,3,YES
+6,WT,home-cage,DPG2h,5d (open) -> 2h,RevOccl-DPG-1,RevOccl-DPG-1L,8592,3247,3672,3,YES
+6,WT,home-cage,DPG2h,5d (unplugged) -> 2h,RevOccl-DPG-1,RevOccl-DPG-1R,9653,3486,2599,3,YES
+6,WT,home-cage,DPG2h,5d (open) -> 2h,RevOccl-DPG-3,RevOccl-DPG-3L,4441,2129,6931,3,YES
+6,WT,home-cage,DPG2h,5d (unplugged) -> 2h,RevOccl-DPG-3,RevOccl-DPG-3R,6415,2703,4750,3,YES
+6,WT,home-cage,DPG2h,5d (open) -> 2h,RevOccl-DPG-4,RevOccl-DPG-4L,7725.5,3012,3400,3,YES
+6,WT,home-cage,DPG2h,5d (unplugged) -> 2h,RevOccl-DPG-4,RevOccl-DPG-4R,5792,2522,5031,3,YES
+6,WT,home-cage,N/A,5d (open) ,wPlug-1,wPlug-1L,6944,2806,5343,3,YES
+6,WT,home-cage,N/A,5d (plugged) ,wPlug-1,wPlug-1R,8578,3246,3319,3,YES
+6,WT,home-cage,N/A,5d (open) ,wPlug-2,wPlug-2L,5575.5,2503.5,6130,3,YES
+6,WT,home-cage,N/A,5d (plugged) ,wPlug-2,wPlug-2R,6705,2859,4929,3,YES
+6,WT,home-cage,N/A,5d (open) ,wPlug-4,wPlug-4L,5493,2490,6723,3,YES
+6,WT,home-cage,N/A,5d (plugged) ,wPlug-4,wPlug-4R,5119,2332,5841,3,YES
+"3,4,6",WT,home-cage,ACE2h,2h,baseline-ACE2h,baseline-ACE2h-1,8692.5,3279,6052,3.1,YES
+"3,4,6",WT,home-cage,ACE2h,2h,baseline-ACE2h,baseline-ACE2h-2,8538,3235,5622,3.1,YES
+"3,4,6",WT,home-cage,DPG2h,2h,baseline-DPG2h,baseline-DPG2h-1,6845,2958,4986,3.1,YES
+"3,4,6",WT,home-cage,DPG2h,2h,baseline-DPG2h,baseline-DPG2h-2,6903,2995,4503,3.1,YES
+"3,4,6",WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-1,8204,3276,4745,3.1,YES
+"3,4,6",WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-2,7908,3235,5650,3.1,YES
+"3,4,6",WT,envA,ACE2h,14d -> 2h,envA-ACE2h,envA-ACE2h-1,7597,3021,4470,3.1,YES
+"3,4,6",WT,envA,ACE2h,14d -> 2h,envA-ACE2h,envA-ACE2h-2,6864,2661.5,6714,3.1,YES
+"3,4,6",WT,envA,DPG2h,14d -> 2h,envA-DPG2h,envA-DPG2h-1,9089,3426,4345,3.1,YES
+"3,4,6",WT,envA,DPG2h,14d -> 2h,envA-DPG2h,envA-DPG2h-2,7498,3018,5747,3.1,YES
+"3,4,6",WT,envA,DPG30m,14d -> 30m,envA-DPG30m,envA-DPG30m-1,6917,2848,5707,3.1,YES
+"3,4,6",WT,envA,DPG30m,14d -> 30m,envA-DPG30m,envA-DPG30m-2,8290,3169.5,4728,3.1,YES
+"3,4,6",WT,envB,ACE2h,14d -> 2h,envB-ACE2h,envB-ACE2h-1,7846,3103,5907,3.1,YES
+"3,4,6",WT,envB,ACE2h,14d -> 2h,envB-ACE2h,envB-ACE2h-2,8248,3051,6743,3.1,YES
+"3,4,6",WT,envB,DPG2h,14d -> 2h,envB-DPG2h,envB-DPG2h-1,11272,3873,679,3.1,YES
+"3,4,6",WT,envB,DPG2h,14d -> 2h,envB-DPG2h,envB-DPG2h-2,5828,2602,6667,3.1,YES
+"3,4,6",WT,envB,DPG30m,14d -> 30m,envB-DPG30m,envB-DPG30m-1,8775.5,3186,5872,3.1,YES
+"3,4,6",WT,envB,DPG30m,14d -> 30m,envB-DPG30m,envB-DPG30m-2,7280.5,2916.5,5432,3.1,YES
+3,OMP-ChR2,home-cage,ctrl,12h,opto12h-ctrl,opto12h-ctrl-1,11960.5,4017,4876,3.1,YES
+3,OMP-ChR2,home-cage,ctrl,12h,opto12h-ctrl,opto12h-ctrl-2,10337,3740,5385,3.1,YES
+3,OMP-ChR2,home-cage,ctrl,12h,opto12h-ctrl,opto12h-ctrl-PI,11221,3872,2061,3.1,YES
+3,OMP-ChR2,home-cage,stimM,12h,opto12h-stimM,opto12h-stimM-1,12212,4048,3141,3.1,YES
+3,OMP-ChR2,home-cage,stimM,12h,opto12h-stimM,opto12h-stimM-2,11786,3961,4181,3.1,YES
+3,OMP-ChR2,home-cage,stimM,12h,opto12h-stimM,opto12h-stimM-PI,11061.5,3860,1642,3.1,YES
+5,OMP-ChR2,home-cage,cage,0h,opto-cage,opto-cage-1,11016,3799,4650,3.1,YES
+5,OMP-ChR2,home-cage,cage,0h,opto-cage,opto-cage-2,8752,3292,6959,3.1,YES
+5,OMP-ChR2,home-cage,ctrl,2h,opto2h-ctrl,opto2h-ctrl-1,8862,3368,6449,3.1,YES
+5,OMP-ChR2,home-cage,ctrl,2h,opto2h-ctrl,opto2h-ctrl-2,10398,3646,4959,3.1,YES
+5,OMP-ChR2,home-cage,stimL,2h,opto2h-stimL,opto2h-stimL-1,10517,3647,6213,3.1,YES
+5,OMP-ChR2,home-cage,stimL,2h,opto2h-stimL,opto2h-stimL-2,10606,3688.5,6002,3.1,YES
+5,OMP-ChR2,home-cage,stimM,2h,opto2h-stimM,opto2h-stimM-1,10631,3696,8029,3.1,YES
+5,OMP-ChR2,home-cage,stimM,2h,opto2h-stimM,opto2h-stimM-2,9635,3475,5967,3.1,YES
+5,OMP-ChR2,home-cage,stimH,2h,opto2h-stimH,opto2h-stimH-1,11609.5,3865,4836,3.1,YES
+5,OMP-ChR2,home-cage,stimH,2h,opto2h-stimH,opto2h-stimH-2,9583.5,3446,5656,3.1,YES
+5,WT,home-cage,2HA0_01p,2h,2HA0_01p2h,2HA0_01p2h-1,7863,3152,6941,3.1,YES
+5,WT,home-cage,2HA0_01p,2h,2HA0_01p2h,2HA0_01p2h-2,9782.5,3568.5,5276,3.1,YES
+5,WT,home-cage,2HA0_1p,2h,2HA0_1p2h,2HA0_1p2h-1,7639,3118.5,8514,3.1,YES
+5,WT,home-cage,2HA0_1p,2h,2HA0_1p2h,2HA0_1p2h-2,9658.5,3625,4574,3.1,YES
+5,WT,home-cage,2HA2h,2h,2HA2h,2HA2h-1,8226,2989,4605,3.1,YES
+5,WT,home-cage,2HA2h,2h,2HA2h,2HA2h-2,8269,2984,4689,3.1,YES
+5,WT,home-cage,4MA2h,2h,4MA2h,4MA2h-1,8297,2992,5759,3.1,YES
+5,WT,home-cage,4MA2h,2h,4MA2h,4MA2h-2,7390,2858,6577,3.1,YES
+5,WT,home-cage,ACE0_01p,2h,ACE0_01p2h,ACE0_01p2h-1,8662,3310,6069,3.1,YES
+5,WT,home-cage,ACE0_01p,2h,ACE0_01p2h,ACE0_01p2h-2,10422.5,3678.5,5504,3.1,YES
+5,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-1,7978,3057,7013,3.1,YES
+5,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-2,7665,2988,6079,3.1,YES
+5,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-3,8735,3399,4915,3.1,YES
+5,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-4,9148,3503,5046,3.1,YES
+5,WT,home-cage,ACE1p,2h,ACE1p2h,ACE1p2h-1,6612,2714,6470,3.1,YES
+5,WT,home-cage,ACE1p,2h,ACE1p2h,ACE1p2h-2,7740.5,3005,6588,3.1,YES
+5,WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-3,9975,3580,4144,3.1,YES
+5,WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-4,8075,3184,6081,3.1,YES
+5,WT,home-cage,MS2h,2h,MS2h,MS2h-1,8550,3111,7067,3.1,YES
+5,WT,home-cage,MS2h,2h,MS2h,MS2h-2,7604.5,2898,7136,3.1,YES
+6,WT,home-cage,ACE0_1p,5d,ACE0_1p-5d,ACE0_1p-5d-1,8062,2995,5325,3.1,YES
+6,WT,home-cage,ACE0_1p,5d,ACE0_1p-5d,ACE0_1p-5d-2,6153,2574,5214,3.1,YES
+6,WT,home-cage,ACE10p,5d,ACE10p-5d,ACE10p-5d-1,7621,2957,6692,3.1,YES
+6,WT,home-cage,ACE10p,5d,ACE10p-5d,ACE10p-5d-2,7152.5,2853,6022,3.1,YES
+6,WT,home-cage,ACE1p,5d,ACE1p-5d,ACE1p-5d-1,9050,3166,4969,3.1,YES
+6,WT,home-cage,ACE1p,5d,ACE1p-5d,ACE1p-5d-2,7821,2957,6821,3.1,YES
+6,WT,home-cage,DPG,5d,DPG-5d,DPG-5d-1,5244.5,2301,4768,3.1,YES
+6,WT,home-cage,DPG,5d,DPG-5d,DPG-5d-2,6090,2563.5,5096,3.1,YES
+6,WT,home-cage,cage,0h,baseline-overnight,baseline-ON-7,7079.5,3043,5438,3.1,YES
+6,WT,home-cage,cage,0h,baseline-overnight,baseline-ON-8,6682,2939,6395,3.1,YES
+6,WT,home-cage,cage,0h,baseline-overnight,1ON-cage-1,9387,3262.5,5604,3.1,YES
+6,WT,home-cage,cage,0h,baseline-overnight,1ON-cage-2,9367.5,3267,6088,3.1,YES
+6,WT,envA,cage,45m,envA-45m,1ON-envA45m-1,9176.5,3240,5866,3.1,YES
+6,WT,envA,cage,45m,envA-45m,1ON-envA45m-2,9540,3292.5,5272,3.1,YES
+6,WT,envA,cage,2h,envA-2h,1ON-envA2h-1,9360,3283,5318,3.1,YES
+6,WT,envA,cage,2h,envA-2h,1ON-envA2h-2,10401.5,3461.5,5192,3.1,YES
+6,WT,envA,cage,4h,envA-4h,1ON-envA4h-1,6961.5,2846,6164,3.1,YES
+6,WT,envA,cage,4h,envA-4h,1ON-envA4h-2,8382.5,3209.5,6672,3.1,YES
+6,WT,envA,cage,12h,envA-12h,1ON-envA12h-1,10381,3650,4217,3.1,YES
+6,WT,envA,cage,12h,envA-12h,1ON-envA12h-2,9577,3487,5870,3.1,YES
+6,WT,envA,cage,24h,envA-24h,1ON-envA24h-1,8064,3161,7039,3.1,YES
+6,WT,envA,cage,24h,envA-24h,1ON-envA24h-2,10012,3627,7068,3.1,YES
+6,WT,envA,cage,3d,envA-3d,1ON-envA-3d-1,7167,2891.5,3280,3.1,YES
+6,WT,envA,cage,3d,envA-3d,1ON-envA-3d-2,7429,2978,3470,3.1,YES
+6,WT,envA,cage,5d,envA-5d,1ON-envA-5d-1,6029.5,2575,3952,3.1,YES
+6,WT,envA,cage,5d,envA-5d,1ON-envA-5d-2,6986.5,2820,4524,3.1,YES
+6,WT,envA,cage,14d,1ON-envA2w,1ON-envA2w-1,8466,3257,7201,3.1,YES
+6,WT,envA,cage,14d,1ON-envA2w,1ON-envA2w-2,8029,3138.5,7306,3.1,YES
+6,WT,envA,cage,2h,envA-envA,envA-envA-1,7917,3141,6839,3.1,YES
+6,WT,envA,cage,2h,envA-envA,envA-envA-2,8199,3159,6543,3.1,YES
+6,WT,home-cage,cage,2h,envA-home,envA-home-1,9538,3457,5923,3.1,YES
+6,WT,home-cage,cage,2h,envA-home,envA-home-2,10343,3583,5895,3.1,YES
+6,WT,home-cage,cage,2h,home-home,home-home-1,9093.5,3338,6276,3.1,YES
+6,WT,home-cage,cage,2h,home-home,home-home-2,9473,3415,7207,3.1,YES
+6,WT,home-cage,Aceto 24h,2h + home-cage 22h,Aceto 24h,Aceto24h-1_,1744,1035,5886,2,YES
+6,WT,home-cage,Aceto 24h,2h + home-cage 22h,Aceto 24h,Aceto24h-2_,1659,996,5682,2,YES
+6,WT,home-cage,DPG 24h,2h + home-cage 22h,DPG 24h,DPG24h-1_,2043,1174,5017,2,YES
+6,WT,home-cage,DPG 24h,2h + home-cage 22h,DPG 24h,DPG24h-2_,1989,1145,5375,2,YES
+2,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-1,16183,4671,1513,3.1,YES
+2,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-10,16981,4952.5,864,3.1,YES
+2,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-2,17919,4904,977,3.1,YES
+2,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-3,17976.5,4899,1006,3.1,YES
+2,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-4,19435,5043,562,3.1,YES
+2,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-9,16264,4843,879,3.1,YES

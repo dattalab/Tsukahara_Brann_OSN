@@ -1,0 +1,159 @@
+﻿GEO_sample,genotype,environment,odor,time,source,orig_ident,bam,counts,metadata
+homecage-1,WT,home-cage,N/A,N/A,baseline-cage,baseline-1,homecage-1_possorted_genome_bam.bam,home_cage_umi_counts.csv.gz,home_cage_metadata.csv.gz
+homecage-2,WT,home-cage,N/A,N/A,baseline-cage,baseline-10,homecage-2_possorted_genome_bam.bam,home_cage_umi_counts.csv.gz,home_cage_metadata.csv.gz
+homecage-3,WT,home-cage,N/A,N/A,baseline-cage,baseline-2,homecage-3_possorted_genome_bam.bam,home_cage_umi_counts.csv.gz,home_cage_metadata.csv.gz
+homecage-4,WT,home-cage,N/A,N/A,baseline-cage,baseline-3,homecage-4_possorted_genome_bam.bam,home_cage_umi_counts.csv.gz,home_cage_metadata.csv.gz
+homecage-5,WT,home-cage,N/A,N/A,baseline-cage,baseline-4,homecage-5_possorted_genome_bam.bam,home_cage_umi_counts.csv.gz,home_cage_metadata.csv.gz
+homecage-6,WT,home-cage,N/A,N/A,baseline-cage,baseline-9,homecage-6_possorted_genome_bam.bam,home_cage_umi_counts.csv.gz,home_cage_metadata.csv.gz
+S50inM72-IRES-GFP-1,S50->M72,home-cage,N/A,N/A,S50->M72,5072-1,5072-1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+S50inM72-IRES-GFP-2,S50->M72,home-cage,N/A,N/A,S50->M72,5072-2,5072-2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+M72inS50-IRES-GFP-1,M72->S50,home-cage,N/A,N/A,M72->S50,7250-1,7250-1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+M72inS50-IRES-GFP-2,M72->S50,home-cage,N/A,N/A,M72->S50,7250-2,7250-2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+P2-IRES-GFP-1,P2iGFP,home-cage,N/A,N/A,P2iGFP,P2G-1,P2G-1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+P2-IRES-GFP-2,P2iGFP,home-cage,N/A,N/A,P2iGFP,P2G-2,P2G-2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-OMP-IRES-GFP-1,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP1,OMP1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-OMP-IRES-GFP-2,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP2,OMP2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-OMP-IRES-GFP-3,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP3,OMP3_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-OMP-IRES-GFP-4,OMPiGFP,home-cage,N/A,N/A,OMPiGFP,OMP4,OMP4_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-WT20w1,WT,home-cage,N/A,N/A,WT20w,WT20w1,WT20w1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-WT20w2,WT,home-cage,N/A,N/A,WT20w,WT20w2,WT20w2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-WTMOE1,WT,home-cage,N/A,N/A,WTMOE,WTMOE1,WTMOE1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-WTMOE2,WT,home-cage,N/A,N/A,WTMOE,WTMOE2,WTMOE2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-control1,WT,home-cage,N/A,N/A,control,control1,control1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-control2,WT,home-cage,N/A,N/A,control,control2,control2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-inhibitor1,WT,home-cage,N/A,N/A,inhibitor,inhibitor1,inhibitor1_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+v2-homecage-inhibitor2,WT,home-cage,N/A,N/A,inhibitor,inhibitor2,inhibitor2_possorted_genome_bam.bam,OR_swap_umi_counts.csv.gz,OR_swap_metadata.csv.gz
+ChronicOccl-1open,WT,home-cage,N/A,4wk,ChronicOccl-1,ChronicOccl-1L,ChronicOccl-1L_possorted_genome_bam.bam,ChronicOccl_umi_counts.csv.gz,ChronicOccl_metadata.csv.gz
+ChronicOccl-1occluded,WT,home-cage,N/A,4wk,ChronicOccl-1,ChronicOccl-1R,ChronicOccl-1R_possorted_genome_bam.bam,ChronicOccl_umi_counts.csv.gz,ChronicOccl_metadata.csv.gz
+ChronicOccl-2open,WT,home-cage,N/A,4wk,ChronicOccl-2,ChronicOccl-2L,ChronicOccl-2L_possorted_genome_bam.bam,ChronicOccl_umi_counts.csv.gz,ChronicOccl_metadata.csv.gz
+ChronicOccl-2occluded,WT,home-cage,N/A,4wk,ChronicOccl-2,ChronicOccl-2R,ChronicOccl-2R_possorted_genome_bam.bam,ChronicOccl_umi_counts.csv.gz,ChronicOccl_metadata.csv.gz
+ChronicOccl-3open,WT,home-cage,N/A,4wk,ChronicOccl-3,ChronicOccl-3L,ChronicOccl-3L_possorted_genome_bam.bam,ChronicOccl_umi_counts.csv.gz,ChronicOccl_metadata.csv.gz
+ChronicOccl-3occluded,WT,home-cage,N/A,4wk,ChronicOccl-3,ChronicOccl-3R,ChronicOccl-3R_possorted_genome_bam.bam,ChronicOccl_umi_counts.csv.gz,ChronicOccl_metadata.csv.gz
+Arrb2KO-envA5d-1,Arrb2KO,envA,cage,5d,Arrb2KO-envA5d,Arrb2KO-envA5d-1,Arrb2KO-envA5d-1_possorted_genome_bam.bam,Arrb2KO_umi_counts.csv.gz,Arrb2KO_metadata.csv.gz
+Arrb2KO-envA5d-2,Arrb2KO,envA,cage,5d,Arrb2KO-envA5d,Arrb2KO-envA5d-2,Arrb2KO-envA5d-2_possorted_genome_bam.bam,Arrb2KO_umi_counts.csv.gz,Arrb2KO_metadata.csv.gz
+Arrb2KO-cage-1,Arrb2KO,home-cage,cage,14d,Arrb2KO-cage,Arrb2KO-cage-1,Arrb2KO-cage-1_possorted_genome_bam.bam,Arrb2KO_umi_counts.csv.gz,Arrb2KO_metadata.csv.gz
+Arrb2KO-cage-2,Arrb2KO,home-cage,cage,14d,Arrb2KO-cage,Arrb2KO-cage-2,Arrb2KO-cage-2_possorted_genome_bam.bam,Arrb2KO_umi_counts.csv.gz,Arrb2KO_metadata.csv.gz
+Arrb2KO-1ON-1,Arrb2KO,home-cage,cage,0h,Arrb2KO-1ON,Arrb2KO-1ON-1,Arrb2KO-1ON-1_possorted_genome_bam.bam,Arrb2KO_umi_counts.csv.gz,Arrb2KO_metadata.csv.gz
+Arrb2KO-1ON-2,Arrb2KO,home-cage,cage,0h,Arrb2KO-1ON,Arrb2KO-1ON-2,Arrb2KO-1ON-2_possorted_genome_bam.bam,Arrb2KO_umi_counts.csv.gz,Arrb2KO_metadata.csv.gz
+v3-ACE2h-1,WT,home-cage,ACE2h,2h,v3-ACE2h-1,v3-ACE2h-1,v3-ACE2h-1_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+v3-ACE2h-2,WT,home-cage,ACE2h,2h,v3-ACE2h-2,v3-ACE2h-2,v3-ACE2h-2_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+v3-DPG2h-1,WT,home-cage,DPG2h,2h,DPG1,DPG1,v3-DPG2h-1_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+v3-DPG2h-2,WT,home-cage,DPG2h,2h,DPG2,DPG2,v3-DPG2h-2_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+v3-DPG30m-1,WT,home-cage,DPG30m,30m,v3-DPG30m-1,v3-DPG30m-1,v3-DPG30m-1_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+v3-DPG30m-2,WT,home-cage,DPG30m,30m,v3-DPG30m-2,v3-DPG30m-2,v3-DPG30m-2_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+v3-OCT2h-1,WT,home-cage,OCT2h,2h,v3-OCT2h-1,v3-OCT2h-1,v3-OCT2h-1_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+v3-OCT2h-2,WT,home-cage,OCT2h,2h,v3-OCT2h-2,v3-OCT2h-2,v3-OCT2h-2_possorted_genome_bam.bam,ActSeq_umi_counts.csv.gz,ActSeq_metadata.csv.gz
+RevOccl-ACE-1open,WT,home-cage,ACE2h,5d (open) -> 2h,RevOccl-ACE-1,RevOccl-ACE-1L,RevOccl-ACE-1L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-ACE-1unplugged,WT,home-cage,ACE2h,5d (unplugged) -> 2h,RevOccl-ACE-1,RevOccl-ACE-1R,RevOccl-ACE-1R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-ACE-2open,WT,home-cage,ACE2h,5d (open) -> 2h,RevOccl-ACE-2,RevOccl-ACE-2L,RevOccl-ACE-2L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-ACE-2unplugged,WT,home-cage,ACE2h,5d (unplugged) -> 2h,RevOccl-ACE-2,RevOccl-ACE-2R,RevOccl-ACE-2R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-DPG-1open,WT,home-cage,DPG2h,5d (open) -> 2h,RevOccl-DPG-1,RevOccl-DPG-1L,RevOccl-DPG-1L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-DPG-1unplugged,WT,home-cage,DPG2h,5d (unplugged) -> 2h,RevOccl-DPG-1,RevOccl-DPG-1R,RevOccl-DPG-1R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-DPG-2open,WT,home-cage,DPG2h,5d (open) -> 2h,RevOccl-DPG-3,RevOccl-DPG-3L,RevOccl-DPG-3L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-DPG-2unplugged,WT,home-cage,DPG2h,5d (unplugged) -> 2h,RevOccl-DPG-3,RevOccl-DPG-3R,RevOccl-DPG-3R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-DPG-3open,WT,home-cage,DPG2h,5d (open) -> 2h,RevOccl-DPG-4,RevOccl-DPG-4L,RevOccl-DPG-4L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+RevOccl-DPG-3unplugged,WT,home-cage,DPG2h,5d (unplugged) -> 2h,RevOccl-DPG-4,RevOccl-DPG-4R,RevOccl-DPG-4R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+wPlug-1open,WT,home-cage,N/A,5d (open),wPlug-1,wPlug-1L,wPlug-1L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+wPlug-1plugged,WT,home-cage,N/A,5d (plugged),wPlug-1,wPlug-1R,wPlug-1R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+wPlug-2open,WT,home-cage,N/A,5d (open),wPlug-2,wPlug-2L,wPlug-2L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+wPlug-2plugged,WT,home-cage,N/A,5d (plugged),wPlug-2,wPlug-2R,wPlug-2R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+wPlug-3open,WT,home-cage,N/A,5d (open),wPlug-4,wPlug-4L,wPlug-4L_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+wPlug-3plugged,WT,home-cage,N/A,5d (plugged),wPlug-4,wPlug-4R,wPlug-4R_possorted_genome_bam.bam,RevOccl_umi_counts.csv.gz,RevOccl_metadata.csv.gz
+homecage-ACE2h-1,WT,home-cage,ACE2h,2h,baseline-ACE2h,baseline-ACE2h-1,baseline-ACE2h-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+homecage-ACE2h-2,WT,home-cage,ACE2h,2h,baseline-ACE2h,baseline-ACE2h-2,baseline-ACE2h-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+homecage-DPG2h-1,WT,home-cage,DPG2h,2h,baseline-DPG2h,baseline-DPG2h-1,baseline-DPG2h-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+homecage-DPG2h-2,WT,home-cage,DPG2h,2h,baseline-DPG2h,baseline-DPG2h-2,baseline-DPG2h-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+homecage-DPG30m-1,WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-1,baseline-DPG30m-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+homecage-DPG30m-2,WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-2,baseline-DPG30m-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envA-ACE2h-1,WT,envA,ACE2h,14d -> 2h,envA-ACE2h,envA-ACE2h-1,envA-ACE2h-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envA-ACE2h-2,WT,envA,ACE2h,14d -> 2h,envA-ACE2h,envA-ACE2h-2,envA-ACE2h-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envA-DPG2h-1,WT,envA,DPG2h,14d -> 2h,envA-DPG2h,envA-DPG2h-1,envA-DPG2h-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envA-DPG2h-2,WT,envA,DPG2h,14d -> 2h,envA-DPG2h,envA-DPG2h-2,envA-DPG2h-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envA-DPG30m-1,WT,envA,DPG30m,14d -> 30m,envA-DPG30m,envA-DPG30m-1,envA-DPG30m-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envA-DPG30m-2,WT,envA,DPG30m,14d -> 30m,envA-DPG30m,envA-DPG30m-2,envA-DPG30m-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envB-ACE2h-1,WT,envB,ACE2h,14d -> 2h,envB-ACE2h,envB-ACE2h-1,envB-ACE2h-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envB-ACE2h-2,WT,envB,ACE2h,14d -> 2h,envB-ACE2h,envB-ACE2h-2,envB-ACE2h-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envB-DPG2h-1,WT,envB,DPG2h,14d -> 2h,envB-DPG2h,envB-DPG2h-1,envB-DPG2h-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envB-DPG2h-2,WT,envB,DPG2h,14d -> 2h,envB-DPG2h,envB-DPG2h-2,envB-DPG2h-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envB-DPG30m-1,WT,envB,DPG30m,14d -> 30m,envB-DPG30m,envB-DPG30m-1,envB-DPG30m-1_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+envB-DPG30m-2,WT,envB,DPG30m,14d -> 30m,envB-DPG30m,envB-DPG30m-2,envB-DPG30m-2_possorted_genome_bam.bam,env_switch_umi_counts.csv.gz,env_switch_metadata.csv.gz
+opto12h-ctrl-1,OMP-ChR2,home-cage,ctrl,12h,opto12h-ctrl,opto12h-ctrl-1,opto12h-ctrl-1_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto12h-ctrl-2,OMP-ChR2,home-cage,ctrl,12h,opto12h-ctrl,opto12h-ctrl-2,opto12h-ctrl-2_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto12h-ctrl-PI,OMP-ChR2,home-cage,ctrl,12h,opto12h-ctrl,opto12h-ctrl-PI,opto12h-ctrl-PI_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto12h-stimM-1,OMP-ChR2,home-cage,stimM,12h,opto12h-stimM,opto12h-stimM-1,opto12h-stimM-1_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto12h-stimM-2,OMP-ChR2,home-cage,stimM,12h,opto12h-stimM,opto12h-stimM-2,opto12h-stimM-2_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto12h-stimM-PI,OMP-ChR2,home-cage,stimM,12h,opto12h-stimM,opto12h-stimM-PI,opto12h-stimM-PI_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto-cage-1,OMP-ChR2,home-cage,cage,0h,opto-cage,opto-cage-1,opto-cage-1_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto-cage-2,OMP-ChR2,home-cage,cage,0h,opto-cage,opto-cage-2,opto-cage-2_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-ctrl-1,OMP-ChR2,home-cage,ctrl,2h,opto2h-ctrl,opto2h-ctrl-1,opto2h-ctrl-1_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-ctrl-2,OMP-ChR2,home-cage,ctrl,2h,opto2h-ctrl,opto2h-ctrl-2,opto2h-ctrl-2_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-stimL-1,OMP-ChR2,home-cage,stimL,2h,opto2h-stimL,opto2h-stimL-1,opto2h-stimL-1_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-stimL-2,OMP-ChR2,home-cage,stimL,2h,opto2h-stimL,opto2h-stimL-2,opto2h-stimL-2_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-stimM-1,OMP-ChR2,home-cage,stimM,2h,opto2h-stimM,opto2h-stimM-1,opto2h-stimM-1_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-stimM-2,OMP-ChR2,home-cage,stimM,2h,opto2h-stimM,opto2h-stimM-2,opto2h-stimM-2_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-stimH-1,OMP-ChR2,home-cage,stimH,2h,opto2h-stimH,opto2h-stimH-1,opto2h-stimH-1_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+opto2h-stimH-2,OMP-ChR2,home-cage,stimH,2h,opto2h-stimH,opto2h-stimH-2,opto2h-stimH-2_possorted_genome_bam.bam,opto_umi_counts.csv.gz,opto_metadata.csv.gz
+2HA0_01p2h-1,WT,home-cage,2HA0_01p,2h,2HA0_01p2h,2HA0_01p2h-1,2HA0_01p2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+2HA0_01p2h-2,WT,home-cage,2HA0_01p,2h,2HA0_01p2h,2HA0_01p2h-2,2HA0_01p2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+2HA0_1p2h-1,WT,home-cage,2HA0_1p,2h,2HA0_1p2h,2HA0_1p2h-1,2HA0_1p2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+2HA0_1p2h-2,WT,home-cage,2HA0_1p,2h,2HA0_1p2h,2HA0_1p2h-2,2HA0_1p2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+2HA2h-1,WT,home-cage,2HA2h,2h,2HA2h,2HA2h-1,2HA2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+2HA2h-2,WT,home-cage,2HA2h,2h,2HA2h,2HA2h-2,2HA2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+4MA2h-1,WT,home-cage,4MA2h,2h,4MA2h,4MA2h-1,4MA2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+4MA2h-2,WT,home-cage,4MA2h,2h,4MA2h,4MA2h-2,4MA2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE0_01p2h-1,WT,home-cage,ACE0_01p,2h,ACE0_01p2h,ACE0_01p2h-1,ACE0_01p2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE0_01p2h-2,WT,home-cage,ACE0_01p,2h,ACE0_01p2h,ACE0_01p2h-2,ACE0_01p2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE0_1p2h-1,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-1,ACE0_1p2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE0_1p2h-2,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-2,ACE0_1p2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE0_1p2h-3,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-3,ACE0_1p2h-3_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE0_1p2h-4,WT,home-cage,ACE0_1p,2h,ACE0_1p2h,ACE0_1p2h-4,ACE0_1p2h-4_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE1p2h-1,WT,home-cage,ACE1p,2h,ACE1p2h,ACE1p2h-1,ACE1p2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE1p2h-2,WT,home-cage,ACE1p,2h,ACE1p2h,ACE1p2h-2,ACE1p2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+baseline-DPG30m-3,WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-3,baseline-DPG30m-3_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+baseline-DPG30m-4,WT,home-cage,DPG30m,30m,baseline-DPG30m,baseline-DPG30m-4,baseline-DPG30m-4_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+MS2h-1,WT,home-cage,MS2h,2h,MS2h,MS2h-1,MS2h-1_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+MS2h-2,WT,home-cage,MS2h,2h,MS2h,MS2h-2,MS2h-2_possorted_genome_bam.bam,ActSeq_conc_analog_umi_counts.csv.gz,ActSeq_conc_analog_metadata.csv.gz
+ACE0_1p-5d-1,WT,home-cage,ACE0_1p,5d,ACE0_1p-5d,ACE0_1p-5d-1,ACE0_1p-5d-1_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+ACE0_1p-5d-2,WT,home-cage,ACE0_1p,5d,ACE0_1p-5d,ACE0_1p-5d-2,ACE0_1p-5d-2_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+ACE10p-5d-1,WT,home-cage,ACE10p,5d,ACE10p-5d,ACE10p-5d-1,ACE10p-5d-1_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+ACE10p-5d-2,WT,home-cage,ACE10p,5d,ACE10p-5d,ACE10p-5d-2,ACE10p-5d-2_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+ACE1p-5d-1,WT,home-cage,ACE1p,5d,ACE1p-5d,ACE1p-5d-1,ACE1p-5d-1_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+ACE1p-5d-2,WT,home-cage,ACE1p,5d,ACE1p-5d,ACE1p-5d-2,ACE1p-5d-2_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+DPG-5d-1,WT,home-cage,DPG,5d,DPG-5d,DPG-5d-1,DPG-5d-1_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+DPG-5d-2,WT,home-cage,DPG,5d,DPG-5d,DPG-5d-2,DPG-5d-2_possorted_genome_bam.bam,chronic_ACE_umi_counts.csv.gz,chronic_ACE_metadata.csv.gz
+baseline-ON-1,WT,home-cage,cage,0h,baseline-overnight,baseline-ON-7,baseline-ON-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+baseline-ON-2,WT,home-cage,cage,0h,baseline-overnight,baseline-ON-8,baseline-ON-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+baseline-ON-3,WT,home-cage,cage,0h,baseline-overnight,1ON-cage-1,1ON-cage-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+baseline-ON-4,WT,home-cage,cage,0h,baseline-overnight,1ON-cage-2,1ON-cage-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA45m-1,WT,envA,cage,45m,envA-45m,1ON-envA45m-1,1ON-envA45m-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA45m-2,WT,envA,cage,45m,envA-45m,1ON-envA45m-2,1ON-envA45m-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA2h-1,WT,envA,cage,2h,envA-2h,1ON-envA2h-1,1ON-envA2h-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA2h-2,WT,envA,cage,2h,envA-2h,1ON-envA2h-2,1ON-envA2h-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA4h-1,WT,envA,cage,4h,envA-4h,1ON-envA4h-1,1ON-envA4h-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA4h-2,WT,envA,cage,4h,envA-4h,1ON-envA4h-2,1ON-envA4h-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA12h-1,WT,envA,cage,12h,envA-12h,1ON-envA12h-1,1ON-envA12h-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA12h-2,WT,envA,cage,12h,envA-12h,1ON-envA12h-2,1ON-envA12h-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA24h-1,WT,envA,cage,24h,envA-24h,1ON-envA24h-1,1ON-envA24h-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA24h-2,WT,envA,cage,24h,envA-24h,1ON-envA24h-2,1ON-envA24h-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA-3d-1,WT,envA,cage,3d,envA-3d,1ON-envA-3d-1,1ON-envA-3d-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA-3d-2,WT,envA,cage,3d,envA-3d,1ON-envA-3d-2,1ON-envA-3d-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA-5d-1,WT,envA,cage,5d,envA-5d,1ON-envA-5d-1,1ON-envA-5d-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA-5d-2,WT,envA,cage,5d,envA-5d,1ON-envA-5d-2,1ON-envA-5d-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA2w-1,WT,envA,cage,14d,1ON-envA2w,1ON-envA2w-1,1ON-envA2w-1_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+1ON-envA2w-2,WT,envA,cage,14d,1ON-envA2w,1ON-envA2w-2,1ON-envA2w-2_possorted_genome_bam.bam,envA_timecourse_umi_counts.csv.gz,envA_timecourse_metadata.csv.gz
+envA-envA-1,WT,envA,cage,2h,envA-envA,envA-envA-1,envA-envA-1_possorted_genome_bam.bam,envA_bidirectional_switch_umi_counts.csv,envA_bidirectional_switch_metadata.csv
+envA-envA-2,WT,envA,cage,2h,envA-envA,envA-envA-2,envA-envA-2_possorted_genome_bam.bam,envA_bidirectional_switch_umi_counts.csv,envA_bidirectional_switch_metadata.csv
+envA-home-1,WT,home-cage,cage,2h,envA-home,envA-home-1,envA-home-1_possorted_genome_bam.bam,envA_bidirectional_switch_umi_counts.csv,envA_bidirectional_switch_metadata.csv
+envA-home-2,WT,home-cage,cage,2h,envA-home,envA-home-2,envA-home-2_possorted_genome_bam.bam,envA_bidirectional_switch_umi_counts.csv,envA_bidirectional_switch_metadata.csv
+home-home-1,WT,home-cage,cage,2h,home-home,home-home-1,home-home-1_possorted_genome_bam.bam,envA_bidirectional_switch_umi_counts.csv,envA_bidirectional_switch_metadata.csv
+home-home-2,WT,home-cage,cage,2h,home-home,home-home-2,home-home-2_possorted_genome_bam.bam,envA_bidirectional_switch_umi_counts.csv,envA_bidirectional_switch_metadata.csv
+ACE24h-1,WT,home-cage,Aceto 24h,2h + home-cage 22h,Aceto 24h,Aceto24h-1_,ACE24h-1_possorted_genome_bam.bam,ActSeq_24h_umi_counts.csv.gz,ActSeq_24h_metadata.csv.gz
+ACE24h-2,WT,home-cage,Aceto 24h,2h + home-cage 22h,Aceto 24h,Aceto24h-2_,ACE24h-2_possorted_genome_bam.bam,ActSeq_24h_umi_counts.csv.gz,ActSeq_24h_metadata.csv.gz
+DPG24h-1,WT,home-cage,DPG 24h,2h + home-cage 22h,DPG 24h,DPG24h-1_,DPG24h-1_possorted_genome_bam.bam,ActSeq_24h_umi_counts.csv.gz,ActSeq_24h_metadata.csv.gz
+DPG24h-2,WT,home-cage,DPG 24h,2h + home-cage 22h,DPG 24h,DPG24h-2_,DPG24h-2_possorted_genome_bam.bam,ActSeq_24h_umi_counts.csv.gz,ActSeq_24h_metadata.csv.gz
+homecage-1,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-1,homecage-1_possorted_genome_bam.bam,home_cage_immature_umi_counts.csv.gz,home_cage_immature_metadata.csv.gz
+homecage-2,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-10,homecage-2_possorted_genome_bam.bam,home_cage_immature_umi_counts.csv.gz,home_cage_immature_metadata.csv.gz
+homecage-3,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-2,homecage-3_possorted_genome_bam.bam,home_cage_immature_umi_counts.csv.gz,home_cage_immature_metadata.csv.gz
+homecage-4,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-3,homecage-4_possorted_genome_bam.bam,home_cage_immature_umi_counts.csv.gz,home_cage_immature_metadata.csv.gz
+homecage-5,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-4,homecage-5_possorted_genome_bam.bam,home_cage_immature_umi_counts.csv.gz,home_cage_immature_metadata.csv.gz
+homecage-6,WT (immature OSNs),home-cage,N/A,N/A,baseline-cage,baseline-9,homecage-6_possorted_genome_bam.bam,home_cage_immature_umi_counts.csv.gz,home_cage_immature_metadata.csv.gz
